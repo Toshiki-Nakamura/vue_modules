@@ -1,2 +1,2 @@
 # vue_modules
-first vur practice
+first vue practice
